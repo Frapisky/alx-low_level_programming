@@ -1,5 +1,5 @@
-#ifndef main.h
-#define main.h
+#ifndef main_h
+#define main_h
 /**
 * Desc: Header file containing prototypes for all functions
 *       used in the 0x04-pointers_arrays_strings directory.
